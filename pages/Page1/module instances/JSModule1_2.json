@@ -4,7 +4,7 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "version": "0.0.6",
-    "name": "JSModule1_1",
+    "name": "JSModule1_2",
     "contextType": "PAGE",
     "pageId": "Page1",
     "inputs": {},
@@ -13,7 +13,7 @@
     "invalids": [],
     "userPermissions": []
   },
-  "id": "Page1_JSModule1_1",
+  "id": "Page1_JSModule1_2",
   "deleted": false,
-  "gitSyncId": "65e8751d62462c44ad31690f_65e8755362462c44ad316976"
+  "gitSyncId": "65e875da62462c44ad316996_65e878d062462c44ad316b27"
 }
